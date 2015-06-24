@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: todoparrot
+        psr4_prefix: todoparrot
+        src_path: app
